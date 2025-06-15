@@ -1,0 +1,5 @@
+,example,label
+4170,"illegal(6,6,6,6,1,7).",False
+3336,"illegal(6,7,1,7,7,7).",False
+14075,"illegal(7,6,0,4,5,1).",False
+13332,"illegal(4,6,1,0,0,4).",False
