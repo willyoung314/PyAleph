@@ -5,3 +5,7 @@ __pycache__/
 # Ignore Jupyter notebook checkpoint files
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
+
+
+#Ignore old files
+docs/
